@@ -1,2 +1,5 @@
-# GroupNo24-MachineLearningBasedObjectPositioningForVisuallyImpaired
+# GroupNo24
+
+# Juvo - A Machine Learning Based Object Positioning For Visually Impaired
+
 Visual impairment is the functional loss of the eye or eyes in which a person's eyesight cannot be corrected up to a normal level. Visually impaired people face many problems in their day to day life and the most common inconvenience is to find their personal items which are misplaced in their indoor space. With advancement in technology, normal conduction of tasks can be made possible for such cases. We aim to develop a system which is a user friendly human computer interface enhanced with computer vision technology which will be able to support the visually impaired to localize and pick up objects used in their daily life. Several efforts have been taken in the past few years to improve the quality of life of such people. The aim of our blind assisting technology system is to bridge the gap between what the disabled people wants to do and what the existing social infrastructure allows them to do.
